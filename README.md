@@ -18,3 +18,5 @@ A Python implementation of the Vigenère Cipher encryption technique. This proje
 📜 Open-source project by Jatin Joshi – Credit retention is encouraged!
 
 🚀 Try it now and secure your messages!
+
+**Note: Don't try to change author's name
